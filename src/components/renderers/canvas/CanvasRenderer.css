@@ -1,0 +1,6 @@
+canvas {
+    border: 1px solid black;
+    background-color: grey;
+    display: block; /* Ensures the canvas aligns properly if additional layout is applied */
+    margin: 0 auto; /* Optional: centers canvas horizontally if it's a block element */
+}
